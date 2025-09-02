@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Nash Niemeier's First CS193
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It looks like we are up and running
+
+My favorite things about CS193 are the folowing:
+-No exams
+-Run by TAs
+-Makes sure I can be prepared for CS class/labs
+-Promotes succeeding in CS
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
